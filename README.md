@@ -1,4 +1,4 @@
-# Laboratorium z rachunku prawdopodobieństwa (AI)
+# Laboratorium z Rachunku Prawdopodobieństwa (AI)
 ### Paweł Lorek
 ### [Uniwersytet Wrocławski](https://math.uni.wroc.pl)
 
