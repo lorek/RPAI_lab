@@ -1,4 +1,4 @@
-# Laboratorium z rachunku prawdopodobieństwa dla AI
+# Laboratorium z rachunku prawdopodobieństwa (AI)
 ### Paweł Lorek
 ### [Uniwersytet Wrocławski](https://math.uni.wroc.pl)
 
@@ -7,7 +7,7 @@
 
 ## O materiałach
 
-Listy zadań i notebooki do laboratorium z rachunku prawdopodobieństwa dla AI. Eksperymenty i symulacje w Pythonie z wykorzystaniem NumPy i Matplotlib.
+Listy zadań i notebooki do laboratorium z Rachunku Prawdopodobieństwa (AI). Eksperymenty i symulacje w Pythonie z wykorzystaniem NumPy i Matplotlib.
 
 **Rok akademicki 2026/2027**
 
