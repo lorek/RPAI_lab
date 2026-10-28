@@ -21,6 +21,19 @@ Nie wymaga instalacji — potrzebne jest konto Google.
 * Zapisz własną kopię: **Plik → Zapisz kopię na Dysku**.
 * Możesz też pobrać plik `.ipynb` i otworzyć go w [Google Colab](https://colab.research.google.com/) przez **Plik → Prześlij notebook**.
 
+### Wyłączenie wspomagania AI
+
+Na zajęciach należy mieć wyłączone podpowiedzi i generowanie kodu przez AI w Google Colab.
+
+Otwórz **Narzędzia → Ustawienia** (ang. **Tools → Settings**) i przejdź do sekcji **Pomoc oparta na AI**I (ang. **AI Assistance**). Ustaw opcje zgodnie z tabelą:
+
+| Opcja — opis po polsku | Nazwa w interfejsie angielskim | Ustawienie |
+|---|---|:---:|
+| Pokaż uzupełnienia kodu oparte na AI | Show AI-powered inline completions | ☐  |
+| Zgoda na korzystanie z funkcji generatywnej AI| Consented to use generative AI features | ☐  |
+| Ukryj funkcje generatywnej AI | Hide generative AI features | ☑  |
+ 
+
 ### 2. Lokalnie w Jupyterze
 
 Zainstaluj Pythona oraz potrzebne pakiety w swoim środowisku:
